@@ -1,0 +1,103 @@
+Nom du dossier à créer pour chaque zone de Chicago (zone -> dossier)
+
+Albany Park  ->  albany-park
+Andersonville  ->  andersonville
+Archer Heights  ->  archer-heights
+Armour Square  ->  armour-square
+Ashburn  ->  ashburn
+Auburn Gresham  ->  auburn-gresham
+Austin  ->  austin
+Avalon Park  ->  avalon-park
+Avondale  ->  avondale
+Belmont Cragin  ->  belmont-cragin
+Beverly  ->  beverly
+Boystown  ->  boystown
+Bridgeport  ->  bridgeport
+Brighton Park  ->  brighton-park
+Bucktown  ->  bucktown
+Burnside  ->  burnside
+Calumet Heights  ->  calumet-heights
+Chatham  ->  chatham
+Chicago Lawn  ->  chicago-lawn
+Chinatown  ->  chinatown
+Clearing  ->  clearing
+Douglas  ->  douglas
+Dunning  ->  dunning
+East Rogers Park  ->  rogers-park-east
+East Side  ->  east-side
+East Village  ->  east-village
+Edgewater  ->  edgewater
+Edison Park  ->  edison-park
+Englewood  ->  englewood
+Fuller Park  ->  fuller-park
+Gage Park  ->  gage-park
+Galewood  ->  galewood
+Garfield Park  ->  garfield-park
+Garfield Ridge  ->  garfield-ridge
+Gold Coast  ->  gold-coast
+Goose Island  ->  goose-island
+Grand Boulevard  ->  grand-boulevard
+Grand Crossing  ->  grand-crossing
+Grant Park  ->  grant-park
+Greektown  ->  greektown
+Hegewisch  ->  hegewisch
+Hermosa  ->  hermosa
+Humboldt Park  ->  humboldt-park
+Hyde Park  ->  hyde-park
+Irving Park  ->  irving-park
+Jackson Park  ->  jackson-park
+Jefferson Park  ->  jefferson-park
+Kenwood  ->  kenwood
+Lake View  ->  lake-view
+Lincoln Park  ->  lincoln-park
+Lincoln Square  ->  lincoln-square
+Little Italy, UIC  ->  little-italy-uic
+Little Village  ->  little-village
+Logan Square  ->  logan-square
+Loop  ->  the-loop
+Lower West Side  ->  pilsen
+Magnificent Mile  ->  magnificent-mile
+Mckinley Park  ->  mckinley-park
+Millenium Park  ->  millenium-park
+Montclare  ->  montclare
+Morgan Park  ->  morgan-park
+Mount Greenwood  ->  mount-greenwood
+Museum Campus  ->  museum-campus
+Near South Side  ->  near-south-side
+New City  ->  back-of-the-yards
+North Center  ->  north-center
+North Lawndale  ->  north-lawndale
+North Park  ->  north-park
+Norwood Park  ->  norwood-park
+O'Hare  ->  o-hare
+Oakland  ->  oakland
+Old Town  ->  old-town
+Portage Park  ->  portage-park
+Printers Row  ->  printers-row
+Pullman  ->  pullman
+River North  ->  river-north
+Riverdale  ->  riverdale
+Rogers Park  ->  rogers-park
+Roseland  ->  roseland
+Rush & Division  ->  rush-division
+Sauganash,Forest Glen  ->  sauganash-forest-glen
+Sheffield & DePaul  ->  sheffield-depaul
+South Chicago  ->  south-chicago
+South Deering  ->  south-deering
+South Shore  ->  south-shore
+Streeterville  ->  streeterville
+Ukrainian Village  ->  ukrainian-village
+United Center  ->  united-center
+Uptown  ->  uptown
+Washington Heights  ->  washington-heights
+Washington Park  ->  washington-park
+West Elsdon  ->  west-elsdon
+West Lawn  ->  west-lawn
+West Loop  ->  west-loop
+West Pullman  ->  west-pullman
+West Ridge  ->  west-ridge
+West Town  ->  west-town
+Wicker Park  ->  wicker-park
+Woodlawn  ->  woodlawn
+Wrigleyville  ->  wrigleyville
+Waukegan (carte hors-cadre)  ->  waukegan

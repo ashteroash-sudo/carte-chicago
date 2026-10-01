@@ -1,0 +1,16 @@
+Nom du dossier à créer pour chaque zone de Gary (zone -> dossier)
+
+Downtown West  ->  downtown-west
+Emerson  ->  emerson
+Ambridge Mann  ->  ambridge-mann
+Midtown  ->  midtown
+Pulaski  ->  pulaski
+Aetna  ->  aetna
+Miller  ->  miller
+Brunswick  ->  brunswick
+Tolleston  ->  tolleston
+Westside  ->  westside
+Black Oak  ->  black-oak
+Glen Park  ->  glen-park
+Front industriel  ->  front-industriel
+Chicago  ->  chicago
